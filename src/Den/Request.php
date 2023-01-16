@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Den\App\Core;
+namespace Den;
 
 final class Request
 {

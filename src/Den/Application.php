@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Den\App\Core;
+namespace Den;
 
-use Den\App\Core\DB\Database;
+use Den\DB\Database;
 
 final class Application
 {

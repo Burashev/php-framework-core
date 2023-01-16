@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Den\App\Core\DB;
+namespace Den\DB;
 
 abstract class Model
 {

@@ -1,7 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Den\App\Core;
+namespace Den;
+
+use Den\App\Core\Application;
 
 class Controller
 {

@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace Den\DB;
 
-use Den\App\Core\Application;
+use Den\Application;
 
 final class Builder
 {

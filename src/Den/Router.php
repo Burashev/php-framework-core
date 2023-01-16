@@ -3,8 +3,6 @@ declare(strict_types=1);
 
 namespace Den;
 
-use Den\App\Core\Application;
-
 final class Router
 {
     private Request $request;

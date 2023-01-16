@@ -1,0 +1,10 @@
+{
+    "name": "shburashev/php-framework-core",
+    "authors": [
+        {
+            "name": "Burashev Shamil",
+            "email": "shburashev@ya.ru"
+        }
+    ],
+    "require": {}
+}
